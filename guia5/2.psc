@@ -10,7 +10,6 @@ Algoritmo DiagonalMatriz
         FinPara
     FinPara
 
-    // Mostrar la matriz
     Para i <- 0 Hasta 3
         Para j <- 0 Hasta 3
             Escribir Sin Saltar matriz[i,j], " "
